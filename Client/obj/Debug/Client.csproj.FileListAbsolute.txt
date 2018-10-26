@@ -1,0 +1,7 @@
+C:\Users\watteroth.dirk\source\repos\Calculator\Calculator\Calculator\Client\bin\Debug\Client.exe.config
+C:\Users\watteroth.dirk\source\repos\Calculator\Calculator\Calculator\Client\bin\Debug\Client.exe
+C:\Users\watteroth.dirk\source\repos\Calculator\Calculator\Calculator\Client\bin\Debug\Client.pdb
+C:\Users\watteroth.dirk\source\repos\Calculator\Calculator\Calculator\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\watteroth.dirk\source\repos\Calculator\Calculator\Calculator\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\watteroth.dirk\source\repos\Calculator\Calculator\Calculator\Client\obj\Debug\Client.exe
+C:\Users\watteroth.dirk\source\repos\Calculator\Calculator\Calculator\Client\obj\Debug\Client.pdb

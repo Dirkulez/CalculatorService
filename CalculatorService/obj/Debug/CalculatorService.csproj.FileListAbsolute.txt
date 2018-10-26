@@ -1,0 +1,17 @@
+C:\Users\MirMohammadi.Ayden\Documents\InfB16\Calculator\CalculatorService\bin\Debug\CalculatorService.exe.config
+C:\Users\MirMohammadi.Ayden\Documents\InfB16\Calculator\CalculatorService\bin\Debug\CalculatorService.exe
+C:\Users\MirMohammadi.Ayden\Documents\InfB16\Calculator\CalculatorService\bin\Debug\CalculatorService.pdb
+C:\Users\MirMohammadi.Ayden\Documents\InfB16\Calculator\CalculatorService\obj\Debug\CalculatorService.csprojResolveAssemblyReference.cache
+C:\Users\MirMohammadi.Ayden\Documents\InfB16\Calculator\CalculatorService\obj\Debug\CalculatorService.csproj.CoreCompileInputs.cache
+C:\Users\MirMohammadi.Ayden\Documents\InfB16\Calculator\CalculatorService\obj\Debug\CalculatorService.exe
+C:\Users\MirMohammadi.Ayden\Documents\InfB16\Calculator\CalculatorService\obj\Debug\CalculatorService.pdb
+C:\Temp\Calculator\CalculatorService.exe.config
+C:\Temp\Calculator\CalculatorService.exe
+C:\Temp\Calculator\CalculatorService.pdb
+C:\Users\watteroth.dirk\Temp\Calculator\CalculatorService.exe.config
+C:\Users\watteroth.dirk\Temp\Calculator\CalculatorService.exe
+C:\Users\watteroth.dirk\Temp\Calculator\CalculatorService.pdb
+C:\Users\watteroth.dirk\source\repos\Calculator\Calculator\Calculator\CalculatorService\obj\Debug\CalculatorService.csproj.CoreCompileInputs.cache
+C:\Users\watteroth.dirk\source\repos\Calculator\Calculator\Calculator\CalculatorService\obj\Debug\CalculatorService.exe
+C:\Users\watteroth.dirk\source\repos\Calculator\Calculator\Calculator\CalculatorService\obj\Debug\CalculatorService.pdb
+C:\Users\watteroth.dirk\source\repos\Calculator\Calculator\Calculator\CalculatorService\obj\Debug\CalculatorService.csprojResolveAssemblyReference.cache
